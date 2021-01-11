@@ -1,0 +1,2 @@
+"0","X_east <- c(1, mean(df$unemployment), 1, mean(df$unemployment) * 1) # East"
+"0","X_west <- c(1, mean(df$unemployment), 0, mean(df$unemployment) * 0) # West"

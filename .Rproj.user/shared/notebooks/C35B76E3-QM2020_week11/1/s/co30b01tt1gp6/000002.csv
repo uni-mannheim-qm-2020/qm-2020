@@ -1,0 +1,6 @@
+"0","mu <- beta0 + beta1*X "
+"0",""
+"0","p <- (exp(mu)) / (1 + exp(mu))"
+"0",""
+"0","# we achieve the same with the following code:"
+"0","p <- plogis(mu)"

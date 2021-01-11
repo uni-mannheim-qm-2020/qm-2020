@@ -1,0 +1,5 @@
+"0","axis_ticks <- pretty(min(res):max(res))"
+"0","axis(2,"
+"0","     at = axis_ticks,"
+"0","     labels = paste0(axis_ticks/1000, ""k""),"
+"0","     las = 1)"

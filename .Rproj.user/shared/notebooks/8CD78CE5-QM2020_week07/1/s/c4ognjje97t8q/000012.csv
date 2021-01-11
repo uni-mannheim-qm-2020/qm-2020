@@ -1,0 +1,7 @@
+"0",""
+"0","polygon("
+"0","  x = c(unemp, rev(unemp)),"
+"0","  y = c(quants_range_east[1 ,], rev(quants_range_east[2 ,])),"
+"0","  col = adjustcolor(viridis(3)[2], alpha = 0.5),"
+"0","  border = NA"
+"0",")"

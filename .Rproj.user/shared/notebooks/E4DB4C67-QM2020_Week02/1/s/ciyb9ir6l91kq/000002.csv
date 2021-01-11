@@ -1,0 +1,7 @@
+"0","hist(trial1,"
+"0","     bty = ""n"","
+"0","     las = 1,"
+"0","     border = ""white"","
+"0","     col = viridis(1),"
+"0","     xlim = c(30, 34),"
+"0","     main = ""Distribution of sample means\n(sample size: n = 100)"")"

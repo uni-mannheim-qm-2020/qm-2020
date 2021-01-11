@@ -1,0 +1,2 @@
+"0","aux2 <- lm(approval ~ growth, data = us)"
+"0",""

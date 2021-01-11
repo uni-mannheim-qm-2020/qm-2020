@@ -1,0 +1,6 @@
+"0",""
+"0","# And we compare it to the analytical solution."
+"0","abline(v = ci_an,  "
+"0","       col =  adjustcolor(viridis(4)[3], alpha = 0.75), "
+"0","       lwd = 2, "
+"0","       lty = 2)"

@@ -1,0 +1,15 @@
+"0","```r
+
+plot(x = election2017$logpopdensity, 
+     y = election2017$greenvote, 
+     bty = \"n\",
+     las = 1,
+     pch = 19, 
+     col = viridis(1, alpha = 0.5),
+     ylab = \"Green Voteshare in %\", 
+     xlab = \"log of Population Density per km^2\",
+     main = \"A linear-log model (log scale)\")
+abline(loglinear_model, 
+       col = twocols[2], 
+       lwd = 2)
+```"

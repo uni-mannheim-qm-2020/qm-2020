@@ -1,0 +1,7 @@
+"0","     "
+"0","hist(trump_rally$like_trump,"
+"0","     main = ""Histogram of Like/Dislike Trump"","
+"0","     xlab = ""Like/Dislike Trump"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

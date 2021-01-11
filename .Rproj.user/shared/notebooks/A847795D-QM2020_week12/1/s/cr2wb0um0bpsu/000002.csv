@@ -1,0 +1,4 @@
+"0","gamma_hat <- coef(m1)"
+"0","V_hat <- vcov(m1)"
+"0",""
+"0","S <- mvrnorm(1000, gamma_hat, V_hat)"

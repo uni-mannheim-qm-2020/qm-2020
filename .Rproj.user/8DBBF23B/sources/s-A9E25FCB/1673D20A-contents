@@ -1,0 +1,87 @@
+## What are R, RStudio, and Git?
+
+### What is **R**?
+
+`R` is a programming language designed to help you perform statistical analysis, create graphics, and later on write your own statistical software. R is becoming increasingly popular and knowledge of R will help you in the job market. R is probably the most versatile statistical tool out there (and its free and open source so you can literally use it anywhere). It is for example used in all fields of academia, from biology to economics, including
+
+ - Wallstreet
+ - Google Analytics
+ - [NY Times graphics department](http://www.nytimes.com/interactive/2012/08/10/sports/olympics/passing-patterns-of-the-uss-top-playmakers.html)
+ 
+ 
+### What is **RStudio**?
+
+RStudio is very good graphical user interface for R. In recent years a growing number of features have been added to this graphical user interface, which makes it the preferred choice for learning R especially among beginners. You can think about it as R is the engine of the car, and RStudio is the dashboard.
+
+### What are **RStudio Projects**?
+
+RStudio projects make it straightforward to divide your work into multiple contexts, each with their own working directory, workspace, history, and source documents. A project is basically a folder on your computer that holds all the files relevant to a particular piece of work. Working in RStudio Projects has multiple advantages:
+
+  - Once a RStudio Project is set up, you do not have to worry about your working directory anymore.
+  - When opening an RStudio Project a new R session (process) is started. This makes sure that things you do in different projects do not mess up.
+  - You can open and work with multiple RStudio projects at the same time.
+  - RStudio projects can easily be exported to and imported from GitHub.
+
+
+### What are **Git** and **GitHub**?
+
+`git` is a version control system that makes it easy to track changes and work on code collaboratively. GitHub is a hosting service for git. You can think of it like a public Dropbox for code. We will use it to distribute code and assignments to you. And you will use it to keep track of your code and collaborate in teams.
+
+### What is a **Git Repository**? 
+
+A Git repository is a space where you store and manage a project. It contains all of your project’s files and stores each file’s revision history. It’s common to refer to a repository as a repo. 
+
+We will you one repository for each lab ans one repositry for each homework assignment. You can directly import ("pull") repositories via RStudio and save them on your computer. If you changed something in your project, you can easily upload ("push") the new version to GitHub. GitHub will keep track of all changes you made over time within your project.
+
+## Organization of the lab sessions
+
+We will split each lab session into two parts:
+
+  - **Phase 1** (~60 minutes): In this part we will give you some input. This means that we go through code that implements the concepts you learned about in the lecture. Whether you run the code simultaneously on your computer or not is completely up to you -- but its absolutely fine to simply listen and watch without doing any coding. You are welcome to interrupt us at any time if you have questions or feel like the pace is too high.
+  
+  - **Phase 2** (~30 minutes): Now its your turn! In this phase you will work on exercises that are similar to the stuff we discussed in phase 1. This is all about you trying things out, doing mistakes, trying again, and succeed. Within this phase we will distribute you into break out rooms. Think of it like virtual neighbours in the lab you can talk to. You can talk to your neighbours if you have any problems or, if things are easy for you, to explain the stuff you learned to others. We will be around as well and try to solve problems and difficulties that come up. Please do not hesitate at all to make use of that.
+
+
+## Workflow overview
+
+Our workflow will apear a bit tricky at the beginning but we are sure that you will handle it with ease very soon. We assume that by now you downloaded and installed R and Rstudio and have your personal GitHub account.
+
+The course has its own page on GitHub, you can find it here: [https://github.com/uni-mannheim-qm-2020](https://github.com/uni-mannheim-qm-2020). This is the place where you can find all relevant materials for the lab sessions. It is also the place where you download and hand-in your homework assignments. 
+
+So how does this work?
+
+#### Get the URL of the repo for the current week
+
+Go to [https://github.com/uni-mannheim-qm-2020](https://github.com/uni-mannheim-qm-2020) and click on the repository for the current week (this week, this is called `week01_introduction`). Now, click on the green **Clone or download** button and select **Use HTTPS** (this might already be selected by default, and if it is, you’ll see the text Clone with HTTPS as in the image below). Click on the clipboard icon to copy the repo URL.
+
+![](images/github_clone.png)
+
+#### Import the repository in RStudio
+
+  1. Open RStudio.
+  2. Click on `File` on the top bar and select `New Project...`.
+
+![](images/new_project.png)
+
+  3. Select `Version Control`. 
+  4. In the next window, select `Git`.
+  5. In the final window, paste the repo URL you grabbed from GitHub in the `Repository URL` window. Click on `Browse` to select the folder on your computer where you want to store the project.
+  6. Click on `Create Project`.
+  
+#### Get working
+  1. Open the `.Rmd` file that is stored in the project (in week 1, this is called `QM2020_Week01.Rmd`).
+  2. Hit the ![](images/run_document.png) button.
+
+
+
+
+## The RStudio interface
+
+The RStudio interface has four panes:
+
+![](images/rstudio_interface.png)
+
+  - **Editor**: This is were you usually code. You can either use .Rmd (R Markdown) or .R (plain R code) files.
+  - **Console**: This is where the results appear once you execute your R-code. You can also directly type R-code into the console and execute it. However, we cannot save this code which is why we usually work in the Editor.
+  - **Environment**: Here you have an overview over all the objects currently loaded in your environment. You will learn more about objects later in the course.
+  - **Files, Plots, Packages, Help, Viewer**: Plots and other things will appear here, don't worry too much about it for the moment.

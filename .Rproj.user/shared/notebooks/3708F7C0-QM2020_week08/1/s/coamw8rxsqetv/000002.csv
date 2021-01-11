@@ -1,0 +1,8 @@
+"0","X <- mvrnorm(n = 100000, "
+"0","             mu = mus, "
+"0","             Sigma = varcov)"
+"0","cor(X[, 1], X[, 2]) # check correlation"
+"1","[1]"
+"1"," -0.008610458"
+"1","
+"

@@ -1,0 +1,5 @@
+"0","pop1 <- gen_pop(mus = mus, "
+"0","                varcov = varcov, "
+"0","                b = b,"
+"0","                sigma_est = sigma_est, "
+"0","                sigma_err = 0)"

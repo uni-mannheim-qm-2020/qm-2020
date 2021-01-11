@@ -1,0 +1,8 @@
+"0",""
+"0","plot(density(trial4),"
+"0","     bty = ""n"", "
+"0","     las = 1,"
+"0","     lwd = 2,"
+"0","     col = viridis(1),"
+"0","     xlim = c(1500, 3000),"
+"0","     main = ""Density of sample means\n(sample size: n = 400)"")"

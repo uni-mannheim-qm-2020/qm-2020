@@ -1,0 +1,18 @@
+"0","```r
+plot(x = election2017$popdensity, 
+     y = election2017$greenvote, 
+     bty = \"n\",
+     las = 1,
+     pch = 19, 
+     col = twocols[1],
+     ylim = c(0, 25),
+     ylab = \"Green Voteshare in %\", xlab = \"Population Density per km^2\",
+     main = \"A linear-log model (human readable scale)\")
+curve(loglinear_model$coefficient[1]+loglinear_model$coefficient[2]*log(x), 
+      add = T, 
+	    col = twocols[2], 
+	    from = 5, 
+	    to = 13000, 
+	    n = 100000,
+	    lwd = 2)
+```"

@@ -1,0 +1,7 @@
+"0",""
+"0","polygon("
+"0","  x = c(rev(X1_sim), X1_sim),"
+"0","  y = c(rev(p_qu_hi[, 2]), p_qu_hi[, 1]),"
+"0","  col = viridis(2, alpha = 0.65)[2],"
+"0","  border = NA"
+"0",")"

@@ -1,0 +1,6 @@
+"0","legend(""topleft"","
+"0","       col = col_vec,"
+"0","       pch = 19,"
+"0","       legend = c(""was at rally"","
+"0","                  ""was not at rally""),"
+"0","       bty = ""n"")"

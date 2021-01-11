@@ -1,0 +1,5 @@
+"0","axis(1,"
+"0","     at = 0:1,"
+"0","     labels = c(""was not at rally"","
+"0","                ""was at rally""),"
+"0","     tick = F)"

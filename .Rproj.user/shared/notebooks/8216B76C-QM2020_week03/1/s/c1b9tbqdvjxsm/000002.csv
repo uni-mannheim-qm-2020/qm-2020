@@ -1,0 +1,2 @@
+"0","west <- data$fh_polity2[data$region == ""Western Europe and North America""]"
+"0","east <- data$fh_polity2[data$region == ""Eastern Europe""]"

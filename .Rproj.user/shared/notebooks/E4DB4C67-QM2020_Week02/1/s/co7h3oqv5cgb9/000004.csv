@@ -1,0 +1,7 @@
+"0",""
+"0","plot(density(income),"
+"0","     bty = ""n"","
+"0","     las = 1,"
+"0","     col = viridis(2)[2],"
+"0","     lwd = 2,"
+"0","     main = ""Density of income"")"

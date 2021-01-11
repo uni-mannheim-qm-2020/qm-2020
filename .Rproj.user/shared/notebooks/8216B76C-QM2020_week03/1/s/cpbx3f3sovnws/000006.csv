@@ -1,0 +1,6 @@
+"0",""
+"0","# Let's add the analytical CI"
+"0","abline(v = ci_sim, "
+"0","       col = adjustcolor(viridis(4)[3], alpha = 0.75), "
+"0","       lwd = 2, "
+"0","       lty = 2)"

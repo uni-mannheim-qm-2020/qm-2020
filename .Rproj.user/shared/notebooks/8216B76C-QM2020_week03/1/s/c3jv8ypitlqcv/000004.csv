@@ -1,0 +1,6 @@
+"0",""
+"0","# And we add the density curve again."
+"0",""
+"0","lines(density(bootmeans),"
+"0","      col = viridis(4)[2],"
+"0","      lwd = 2)"

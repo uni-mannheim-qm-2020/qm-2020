@@ -1,0 +1,6 @@
+"0","segments(x0 = 0,"
+"0","         x1 = p_max_lik,"
+"0","         y0 = max_lik,"
+"0","         y1 = max_lik,"
+"0","         col = viridis(3)[2],"
+"0","         lwd = 2)"

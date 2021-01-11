@@ -1,0 +1,7 @@
+"0","hist(populism$educ,"
+"0","     breaks = seq(0.5, 7.5, 1),"
+"0","     main = ""Histogram of Education"","
+"0","     xlab = ""Formal level of education"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

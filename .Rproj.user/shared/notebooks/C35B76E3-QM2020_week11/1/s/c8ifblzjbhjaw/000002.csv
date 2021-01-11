@@ -1,0 +1,3 @@
+"0",""
+"0","m1 <- glm(civilwar ~ log_mountain, data = df, family = binomial(link = logit))"
+"0",""

@@ -1,0 +1,2 @@
+"0","load(""raw-data/populism.Rdata"")"
+"0","head(populism)"

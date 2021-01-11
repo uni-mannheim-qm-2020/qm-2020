@@ -1,0 +1,7 @@
+"0","     "
+"0","hist(populism$like_pop_right,"
+"0","     main = ""Histogram of like/dislike populist right party"","
+"0","     xlab = ""Like/Dislike Populist Right Party"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

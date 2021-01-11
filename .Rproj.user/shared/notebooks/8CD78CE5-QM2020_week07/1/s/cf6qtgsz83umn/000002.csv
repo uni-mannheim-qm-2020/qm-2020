@@ -1,0 +1,3 @@
+"0","load(file = ""raw-data/election2013_2.RData"")"
+"0",""
+"0","df <- as.data.frame(election2013_2)"

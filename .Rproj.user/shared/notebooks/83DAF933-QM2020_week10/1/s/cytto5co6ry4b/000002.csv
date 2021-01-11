@@ -1,0 +1,3 @@
+"0","binom_lik <- function(y, n, p) {"
+"0","  factorial(n) / (factorial(n - y) * factorial(y)) * p ^ y * (1 - p) ^ (n - y)"
+"0","}"

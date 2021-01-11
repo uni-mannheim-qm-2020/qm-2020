@@ -1,0 +1,5 @@
+"0",""
+"0","# Add lines for the means"
+"0","lines(x = X1_sim,"
+"0","      y = fd_mean, "
+"0","      lwd = 1)"

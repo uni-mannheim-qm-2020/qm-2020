@@ -1,0 +1,7 @@
+"0","text(x = 0,"
+"0","     y = lik + 0.01,"
+"0","     labels = c(paste(""Probability of observing 7 heads if p was "", p)),"
+"0","     col = viridis(3)[2],"
+"0","     cex = 0.7,"
+"0","     pos = 4)"
+"0",""

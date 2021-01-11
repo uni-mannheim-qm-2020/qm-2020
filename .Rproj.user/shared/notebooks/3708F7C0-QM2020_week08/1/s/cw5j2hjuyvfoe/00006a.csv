@@ -1,0 +1,7 @@
+"0",""
+"0","legend(""topleft"", "
+"0","       legend = c(""No"", ""Small"", ""High"", ""Very high""),"
+"0","       col = four_cols, "
+"0","       lty = ""dashed"", "
+"0","       cex = 0.7,"
+"0","       bty = ""n"")"

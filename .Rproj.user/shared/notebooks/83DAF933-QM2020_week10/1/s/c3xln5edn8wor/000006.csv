@@ -1,0 +1,3 @@
+"0","abline(v = min_loglik_b,"
+"0","       lwd = 2,"
+"0","       col = viridis(2)[2])"

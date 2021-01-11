@@ -1,0 +1,1 @@
+"0","aux1 <- lm(vote ~ growth, data = us)"

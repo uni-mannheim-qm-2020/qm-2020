@@ -1,0 +1,6 @@
+"0","lines("
+"0","  z_vals_fine,"
+"0","  mfx_fine + qnorm(.025) * se_mfx_fine,"
+"0","  lty = 2,"
+"0","  col = adjustcolor(""black"", alpha = 0.5)"
+"0",")"

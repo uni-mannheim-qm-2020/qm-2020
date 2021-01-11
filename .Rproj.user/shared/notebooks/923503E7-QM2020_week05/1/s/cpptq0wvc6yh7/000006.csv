@@ -1,0 +1,7 @@
+"0",""
+"0","hist(experiment$turnout,"
+"0","     main = ""Histogram of willingness to turn out"","
+"0","     xlab = ""Willingness to turn out"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

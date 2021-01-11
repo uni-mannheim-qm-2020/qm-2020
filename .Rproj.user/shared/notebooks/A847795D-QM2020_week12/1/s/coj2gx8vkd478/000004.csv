@@ -1,0 +1,8 @@
+"0",""
+"0","# plot the confidence intervals as polygons"
+"0","polygon("
+"0","  x = c(rev(X1_sim), X1_sim),"
+"0","  y = c(rev(fd_qu[, 2]), fd_qu[, 1]),"
+"0","  col = viridis(1, alpha = 0.65),"
+"0","  border = NA"
+"0",")"

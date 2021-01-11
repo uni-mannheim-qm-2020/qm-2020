@@ -1,0 +1,8 @@
+"0",""
+"0","# Distribution of final test score"
+"0","hist(ex1$score,"
+"0","     main = ""Histogram of exercises"","
+"0","     xlab = ""Average weekly number of practice exercises"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

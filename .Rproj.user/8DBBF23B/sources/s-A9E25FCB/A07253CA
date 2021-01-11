@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610364969233.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3640139290",
+    "id" : "A07253CA",
+    "lastKnownWriteTime" : 1610365028,
+    "last_content_update" : 1610365028246,
+    "path" : "~/Dropbox/01_Teaching/QM2020_git/qm-2020/week12_wrap_up/QM2020_week12.Rmd",
+    "project_path" : "week12_wrap_up/QM2020_week12.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "last_setup_crc32" : "A9E25FCB6e3999e7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

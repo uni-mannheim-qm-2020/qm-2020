@@ -1,0 +1,7 @@
+"0",""
+"0","# Let's add those confidence intervals."
+"0",""
+"0",""
+"0","# First, for east:"
+"0",""
+"0","lines(unemp, quants_range_east[1,], lty = ""dashed"", col = viridis(3)[2])"

@@ -1,0 +1,8 @@
+"0","b_hats_no <- t(replicate(1000, drawncalc(pop = pop1)))"
+"0",""
+"0","b_hats_small <- t(replicate(1000, drawncalc(pop = pop2)))"
+"0",""
+"0","b_hats_high <- t(replicate(1000, drawncalc(pop = pop3)))"
+"0",""
+"0","b_hats_veryhigh <- t(replicate(1000, drawncalc(pop = pop4)))"
+"0",""

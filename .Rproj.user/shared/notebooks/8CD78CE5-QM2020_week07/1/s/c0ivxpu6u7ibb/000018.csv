@@ -1,0 +1,8 @@
+"0",""
+"0","# Get mean amd quantiles."
+"0",""
+"0","quants_fd <- apply(as.matrix(fd), 2, quants_mean_fun)"
+"0",""
+"0","# Add the lines to the plot"
+"0",""
+"0","abline(v = quants_fd, lty = 2, col = viridis(4)[4])"

@@ -1,0 +1,7 @@
+"0",""
+"0","# Let's add the points."
+"0","points(x_values, "
+"0","       dbinom(x_values, size = 100, p = 0.5), "
+"0","       cex = 0.3, "
+"0","       pch = 19, "
+"0","       col = viridis(1))"

@@ -1,0 +1,8 @@
+"0","sigma_err <- 0.5"
+"0",""
+"0","X[, 1] <- X[, 1] + rnorm(length(X[, 1]), 0, sigma_err) # X-star from the lecture"
+"0",""
+"0","# Population data"
+"0",""
+"0","pop <- data.frame(cbind(Y, X)) "
+"0","head(pop)"

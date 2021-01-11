@@ -1,0 +1,7 @@
+"0",""
+"0","# How does the simulated CI compare to the analytical one? "
+"0","# Let's have a look at it in the same plot!"
+"0","abline(v = ci_an, "
+"0","       col = adjustcolor(viridis(4)[4], alpha = 0.75), "
+"0","       lwd = 2, "
+"0","       lty = 2)"

@@ -1,0 +1,8 @@
+"0",""
+"0","# Second, for women (this will be a bit tricky):"
+"0",""
+"0","# Only plot the line for x-values supported by the data"
+"0","clip(x1 = min(education_jitter[df_ia$female == 1]),"
+"0","     x2 = max(education_jitter[df_ia$female == 1]),"
+"0","     y1 = -100000,"
+"0","     y2 = 100000)"

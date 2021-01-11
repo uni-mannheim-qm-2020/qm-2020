@@ -1,0 +1,5 @@
+"0",""
+"0","points(df$unemployment,"
+"0","       df$leftvote ,"
+"0","       pch = 19,"
+"0","       col = adjustcolor(viridis(3)[1], alpha = 0.8))"

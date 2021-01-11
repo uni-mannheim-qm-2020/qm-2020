@@ -1,0 +1,7 @@
+"0",""
+"0","# Now we will add some extras to the plot:"
+"0","# Lines for density."
+"0",""
+"0","lines(density(simsupport),"
+"0","      col = viridis(2)[2],"
+"0","      lwd = 2)"

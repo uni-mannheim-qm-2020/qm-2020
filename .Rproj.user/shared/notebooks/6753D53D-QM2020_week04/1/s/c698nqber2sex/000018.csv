@@ -1,0 +1,7 @@
+"0",""
+"0","# Label the largest positive outlier"
+"0","text(x = election2017$age18to34[residuals(reg) == max(residuals(reg))], "
+"0","     y = max(residuals(reg)), "
+"0","     names(which(residuals(reg) == max(residuals(reg)))),"
+"0","     cex = 0.6, "
+"0","     pos = 1)"

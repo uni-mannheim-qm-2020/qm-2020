@@ -1,0 +1,4 @@
+"0","binom_loglik <- function(y, n, p) {"
+"0","  log(factorial(n) / (factorial(n - y) * factorial(y))) + "
+"0","    y * log(p) + (n - y) * log(1 - p)"
+"0","}"

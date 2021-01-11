@@ -1,0 +1,7 @@
+"0",""
+"0","# Add a legend."
+"0","legend(""topleft"","
+"0","       legend = c(""Female"", ""Male""),"
+"0","       pch = 16,"
+"0","       col = viridis(2, 0.75),"
+"0","       bty = ""n"")"

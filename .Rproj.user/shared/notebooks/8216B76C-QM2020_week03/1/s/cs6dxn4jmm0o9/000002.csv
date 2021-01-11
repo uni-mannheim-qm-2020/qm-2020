@@ -1,0 +1,7 @@
+"0","n1 <- length(west)"
+"0","n2 <- length(east)"
+"0",""
+"0","ci_up <- (mean(west) - mean(east)) + 1.96 * sqrt(var(west) / n1 + var(east) / n2)"
+"0","ci_low <- (mean(west) - mean(east)) - 1.96 * sqrt(var(west) / n1 + var(east) / n2)"
+"0",""
+"0","ci_ahand <- c(ci_low, ci_up)"

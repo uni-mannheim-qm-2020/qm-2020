@@ -1,0 +1,1 @@
+"0","trial1 <- rbinom(n = 1000, size = 1, prob = 0.5)"

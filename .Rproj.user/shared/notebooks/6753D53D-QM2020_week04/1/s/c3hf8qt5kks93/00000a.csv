@@ -1,0 +1,7 @@
+"0","# Have a look at the green party's district level vote share"
+"0","hist(election2017$greenvote, "
+"0","     main = ""Histogram of the Green's district level vote share 2017"","
+"0","     xlab = ""vote share"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

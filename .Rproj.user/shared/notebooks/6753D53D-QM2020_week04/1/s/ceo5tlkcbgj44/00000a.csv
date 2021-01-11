@@ -1,0 +1,6 @@
+"0",""
+"0","# add the line"
+"0","abline(a = coef_hand[1], "
+"0","       b = coef_hand[2],"
+"0","       col = twocols[2],"
+"0","       lwd = 2)"

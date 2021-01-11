@@ -1,0 +1,3 @@
+"0","unemp <- seq(0, 20, 0.1)  # Range from 0 to 20, in steps of 0.1"
+"0","scenario_east <- cbind(1, unemp, 1, unemp * 1) "
+"0","scenario_west <- cbind(1, unemp, 0, unemp * 0)"

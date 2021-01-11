@@ -1,0 +1,1 @@
+"0","apply(vars, 2, hist, col = viridis(1), border = ""white"", las = 1)"

@@ -1,0 +1,6 @@
+"0",""
+"0","# plot uncertainty with a polygon"
+"0","polygon(x = c(rev(seq_X), seq_X), "
+"0","        y = c(rev(p_qu[,2]), p_qu[,1]),"
+"0","        col = viridis(1, 0.4),"
+"0","        border = NA)"

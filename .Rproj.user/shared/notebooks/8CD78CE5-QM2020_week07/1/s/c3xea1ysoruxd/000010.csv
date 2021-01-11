@@ -1,0 +1,6 @@
+"0","lines("
+"0","  x = x_unemp,"
+"0","  y = pred_leftvote_east,"
+"0","  lwd = 2,"
+"0","  col = viridis(2)[2]"
+"0",")"

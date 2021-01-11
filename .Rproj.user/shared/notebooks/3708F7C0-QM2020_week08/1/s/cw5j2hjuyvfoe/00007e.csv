@@ -1,0 +1,7 @@
+"0",""
+"0","abline(v = c(mean(b_hats_no[, 2]), "
+"0","             mean(b_hats_small[, 2]),"
+"0","             mean(b_hats_high[, 2]), "
+"0","             mean(b_hats_veryhigh[, 2])),"
+"0","       col = four_cols, "
+"0","       lty = 2)"

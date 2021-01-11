@@ -1,0 +1,7 @@
+"0",""
+"0","hist(experiment$pol_interest,"
+"0","     main = ""Histogram of political interest"","
+"0","     xlab = ""Political Interest"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

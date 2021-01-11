@@ -1,0 +1,2 @@
+"0",""
+"0","# res2 <- optim(stval, logit_ll, Y = df$civilwar, X = df$log_mountain, control = list(fnscale = -1))"

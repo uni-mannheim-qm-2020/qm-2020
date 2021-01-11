@@ -1,0 +1,2 @@
+"0","m1 <- lm(income ~ education, data = dat1)"
+"0","m2 <- lm(income ~ education + female, data = dat1)"

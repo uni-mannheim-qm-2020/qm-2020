@@ -1,0 +1,2 @@
+"0","p_mean <- apply(p_sim, 2, mean)"
+"0","p_qu <- t(apply(p_sim, 2, quantile, prob = c(0.025, 0.975)))"

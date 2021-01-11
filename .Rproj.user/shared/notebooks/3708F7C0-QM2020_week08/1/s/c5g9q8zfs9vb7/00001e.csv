@@ -1,0 +1,5 @@
+"0",""
+"0","abline(v = c(mean(b_hats_ovb[, 1]), "
+"0","             mean(b_hats_ovb[, 2])),"
+"0","       col = two_cols, "
+"0","       lty = 2)"

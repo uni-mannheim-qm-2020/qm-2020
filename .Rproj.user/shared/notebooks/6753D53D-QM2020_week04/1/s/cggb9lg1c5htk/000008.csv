@@ -1,0 +1,6 @@
+"0","abline(linear_model, "
+"0","       col = twocols[2], "
+"0","       lwd = 2)"
+"2","Error in abline(linear_model, col = twocols[2], lwd = 2) : 
+  object 'linear_model' not found
+"

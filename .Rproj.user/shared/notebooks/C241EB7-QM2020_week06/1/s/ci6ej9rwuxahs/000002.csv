@@ -1,0 +1,3 @@
+"0","load(""raw-data/pop.RData"")"
+"0",""
+"0","head(pop)"

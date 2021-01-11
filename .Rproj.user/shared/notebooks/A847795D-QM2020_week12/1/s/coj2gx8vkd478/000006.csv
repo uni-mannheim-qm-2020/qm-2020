@@ -1,0 +1,3 @@
+"0",""
+"0","# We add a horizontal line at y = 0"
+"0","abline(h = 0)"

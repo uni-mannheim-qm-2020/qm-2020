@@ -1,0 +1,20 @@
+"0","ols_bi <- function(y, x){"
+"0","  cov <- sum((x - mean(x)) * (y - mean(y)))"
+"0","  var <- sum((x - mean(x)) ^ 2)"
+"0","  b1 <- cov / var"
+"0","  b0 <- mean(y) - b1 * mean(x)"
+"0","  cat(""Congrats, you just wrote your first estimator!\n \n intercept \t slope \n"", b0,""\t"", b1)"
+"0","  return(c(b0, b1))"
+"0","}"
+"0",""
+"0","coef_hand <- ols_bi(y = election2017$greenvote, x = election2017$age18to34)"
+"1","Congrats, you just wrote your first estimator!
+ 
+ intercept 	 slope 
+"
+"1"," "
+"1","-7.861828"
+"1"," "
+"1","	"
+"1"," "
+"1","0.8176557"

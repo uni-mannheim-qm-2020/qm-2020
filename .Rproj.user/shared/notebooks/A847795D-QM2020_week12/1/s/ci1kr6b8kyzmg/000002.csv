@@ -1,0 +1,6 @@
+"0","# calculate the first difference"
+"0","fd <- p_sim_lo - p_sim_hi"
+"0",""
+"0","# calculate means and quantiles"
+"0","fd_mean <- apply(fd, 2, mean)"
+"0","fd_qu <- t(apply(fd, 2, quantile, prob = c(0.025, 0.975)))"

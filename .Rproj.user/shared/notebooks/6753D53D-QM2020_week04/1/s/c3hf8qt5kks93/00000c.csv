@@ -1,0 +1,8 @@
+"0",""
+"0","# Have a look at the green party's district level vote share"
+"0","hist(election2017$age18to34, "
+"0","     main = ""Histogram of age18to34"","
+"0","     xlab = ""Share of 18 to 34 year old voters in district"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

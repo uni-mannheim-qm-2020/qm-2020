@@ -1,0 +1,5 @@
+"0",""
+"0","points(df$unemployment,"
+"0","       df$leftvote ,"
+"0","       pch = 19,"
+"0","       col = viridis(2, 0.5)[1])"

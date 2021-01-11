@@ -1,0 +1,1 @@
+"0","aux3 <- lm(resid_aux1 ~ resid_aux2)"

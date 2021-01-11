@@ -1,0 +1,7 @@
+"0","# Why replace = T?"
+"0",""
+"0","for (i in 1:1000) {"
+"0","  bootmeans[i] <- mean(sample(x = support,"
+"0","                              size = length(support),"
+"0","                              replace = TRUE))"
+"0","}"

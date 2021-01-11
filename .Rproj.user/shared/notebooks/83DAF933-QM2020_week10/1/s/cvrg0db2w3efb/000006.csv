@@ -1,0 +1,4 @@
+"0","lines(x = p, "
+"0","      y = res2, "
+"0","      lty = ""dashed"","
+"0","      col = viridis(3)[1])"

@@ -1,0 +1,6 @@
+"0","text(x = 0,"
+"0","     y = max_lik + 0.01,"
+"0","     labels = ""Maximum likelihood estimate: p = 0.7"","
+"0","     col = viridis(3)[2],"
+"0","     cex = 0.7,"
+"0","     pos = 4)"

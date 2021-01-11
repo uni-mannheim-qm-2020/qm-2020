@@ -1,0 +1,8 @@
+"0",""
+"0","# distribution of weekly study hours"
+"0","hist(ex1$study_hours,"
+"0","     main = ""Histogram of study hours"","
+"0","     xlab = ""Average weekly study hours"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

@@ -1,0 +1,7 @@
+"0","barplot(table(experiment$educ_program),"
+"0","        main = ""Assignment to civic education program"","
+"0","        xlab = """","
+"0","        names.arg = c(""Control Group"", ""Treatment Group""),"
+"0","        col = viridis(1),"
+"0","        border = F,"
+"0","        las = 1)"

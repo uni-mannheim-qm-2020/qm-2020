@@ -1,0 +1,6 @@
+"0","# Histogram Predicted Values West Germany"
+"0","hist(Y_hat_west,"
+"0","     las = 1,"
+"0","     main = ""Histogram of Predicted Values (West Germany)"","
+"0","     col = viridis(3)[1], "
+"0","     border = ""white"")"

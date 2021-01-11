@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"abline(linear_model, col = twocols[2], lwd = 2)","line_number":0}],"message":"Error in abline(linear_model, col = twocols[2], lwd = 2) : \n  object 'linear_model' not found\n"}

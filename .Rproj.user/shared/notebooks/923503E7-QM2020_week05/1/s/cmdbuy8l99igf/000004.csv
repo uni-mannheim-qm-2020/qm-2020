@@ -1,0 +1,7 @@
+"0",""
+"0","hist(trump_rally$ideology,"
+"0","     main = ""Histogram of Ideology"","
+"0","     xlab = ""Ideology (Liberal-Conservative)"","
+"0","     col = viridis(1),"
+"0","     border = F,"
+"0","     las = 1)"

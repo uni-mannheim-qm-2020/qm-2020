@@ -1,0 +1,2 @@
+"0","m2 <- lm(income ~ education + female, "
+"0","         data = dat1)"

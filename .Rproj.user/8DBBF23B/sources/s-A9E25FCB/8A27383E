@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1610362887596.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3956389523",
+    "id" : "8A27383E",
+    "lastKnownWriteTime" : 1610362897,
+    "last_content_update" : 1610362897860,
+    "path" : "~/Dropbox/01_Teaching/QM2020_git/qm-2020/week10_mle/QM2020_week10.Rmd",
+    "project_path" : "week10_mle/QM2020_week10.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "last_setup_crc32" : ""
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

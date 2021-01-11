@@ -1,0 +1,17 @@
+"0","```r
+
+
+# Residual Plot
+plot(x = election2017$logpopdensity, 
+     y = residuals(loglinear_model),
+     bty = \"n\",
+     las = 1,
+     pch = 19, 
+     col = twocols[1],
+     ylab = \"Residuals\", xlab = \"Log of Population Density per km^2\",
+     main = \"Residuals of the linear-log model\")
+abline(h = 0, 
+       col = twocols[2], 
+       lwd = 2)
+
+```"

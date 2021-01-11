@@ -1,0 +1,5 @@
+"0",""
+"0","# And add the regression line"
+"0","abline(a = (coef(m1)[1]),"
+"0","       b = (coef(m1)[2]),"
+"0","       lwd = 2)"
